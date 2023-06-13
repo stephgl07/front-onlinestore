@@ -1,7 +1,0 @@
-.app {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  flex-direction: column; /* Agregamos esta línea para centrar verticalmente */
-}
